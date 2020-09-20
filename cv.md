@@ -53,5 +53,5 @@ At the beginning of his journey, I learned such languages ​​as Java (for And
    * ***Dnipro LevelUp***
    
 ### English
-   Finished [ESL Dnipro](https://eslukraine.com/) ( English as a Second Language )
+   Finished [ESL Dnipro](https://eslukraine.com/)  ( English as a Second Language )
    
